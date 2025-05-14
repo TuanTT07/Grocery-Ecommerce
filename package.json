@@ -1,0 +1,21 @@
+{
+    "name": "grocery-ecommerce-templates",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "sass": "sass scss:assets/css -w"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/TuanTT07/Grocery-Ecommerce.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/TuanTT07/Grocery-Ecommerce/issues"
+    },
+    "homepage": "https://github.com/TuanTT07/Grocery-Ecommerce#readme",
+    "description": ""
+}
